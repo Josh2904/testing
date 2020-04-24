@@ -1,3 +1,5 @@
-print("This fike was created within Rstudio")
+print("This file was created within Rstudio")
 
 print("And now it lives on GitHub")
+
+print("file spelling corrected")
